@@ -12,4 +12,9 @@ Para descargar el software: https://s3.amazonaws.com/otreehub/public_blobs/merca
 
 
 
+Elaborado por:
+Sebastian Bernal (Diseño de software)
+Nelson Felipe Barco Benavides (Desarrollo de software)
+
+
 
